@@ -1,2 +1,2 @@
-# DIO-Jogo-da-Mem-ria
+# DIO Jogo da Memoria
 Jogo da Memória
